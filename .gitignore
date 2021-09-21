@@ -1,0 +1,13 @@
+/.idea/
+/.idea/*
+.idea/*
+*/.idea/
+.idea/
+/venv/
+venv/
+/py-venv/
+py-venv/
+*.pyc
+/source/*.pyc
+__pycache__/*.pyc
+/__pycache__
